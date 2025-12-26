@@ -68,6 +68,7 @@ const Contact: React.FunctionComponent = () => {
                     <div className="text-gray-500 text-xs">Presnenskaya Nab 12</div>
                     <div className="text-[#FFD70] text-xs mt-1">+7 (495) 000-00-00</div>
                   </div>
+                                </div>
                 <div className="flex items-start gap-4">
                   <Mail className="w-5 h-5 text-[#E60012] mt-1"/>
                   <div>
