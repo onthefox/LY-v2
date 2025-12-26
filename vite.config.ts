@@ -4,6 +4,7 @@ import path from 'path';
 import { visualizer } from 'rollup-plugin-visualizer';
 
 export default defineConfig({
+   base: '/LY-v2/',
  plugins: [
    react(),
    process.env.ANALYZE && visualizer({
